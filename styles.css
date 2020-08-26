@@ -1,4 +1,75 @@
 .jumbotron {
-    margin-bottom: 0px;
-    background-color: #88BDBC ;
- }
+  margin-bottom: 0px;
+  background-color: #88bdbc;
+}
+
+.date {
+  color: #6e6658;
+  font-size: small;
+}
+
+.details {
+  background-color: rgb(240, 174, 152, 40%);
+  border: medium solid black;
+  margin-top: 6px;
+}
+
+.video {
+  width: 100%;
+}
+
+.icon {
+  width: 2rem;
+  height: 2rem;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.checked {
+  color: orange;
+}
+
+.side {
+  margin-top: 20px;
+}
+
+img {
+  width: 100%;
+}
+
+.interests {
+  height: 70%;
+}
+
+/*Class used to display images in boxes with description in the personal information page.*/
+.card {
+  width: 18vw;
+  text-align: justify;
+  width: 100%;
+  height: auto;
+}
+
+a {
+  color: #6e6658;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: rgb(240, 174, 152, 100%);
+}
+
+.apps {
+  height: 100%;
+  width: 120%;
+}
+
+.proj {
+  height: 80%;
+  width: 115%;
+}
+
+.details img {
+  margin-bottom: 5px;
+}
