@@ -61,15 +61,24 @@ a:hover {
 }
 
 .apps {
-  height: 100%;
-  width: 120%;
+  height: 20vw;
+  width: 13vw;
 }
 
 .proj {
-  height: 80%;
-  width: 115%;
+  height: 10vw;
+  width: 12vw;
 }
 
 .details img {
   margin-bottom: 5px;
+}
+
+.big {
+  font-size: small;
+}
+
+h3 {
+  font-size: 110%;
+  font-weight: bold;
 }
