@@ -1,45 +1,55 @@
+/*Class for setting up the banner*/
 .jumbotron {
   margin-bottom: 0px;
   background-color: #88bdbc;
 }
 
+/*Class for setting up the dates format*/
 .date {
   color: #6e6658;
   font-size: small;
 }
 
+/*Class for the pink containers to the right in the CV page*/
 .details {
   background-color: rgb(240, 174, 152, 40%);
   border: medium solid black;
   margin-top: 6px;
 }
 
+/*Class for setting size in the videos*/
 .video {
   width: 100%;
 }
 
+/*Class for organizing the social networks' logos in the footer*/
 .icon {
   width: 2rem;
   height: 2rem;
 }
 
+/*Class for making text bold*/
 .bold {
   font-weight: bold;
 }
 
+/*Class for setting the color of the stars in tec skills*/
 .checked {
   color: orange;
 }
 
+/*Setting margin on the pink containers in the side of the CV*/
 .side {
   margin-top: 20px;
 }
 
+/*Setting images size*/
 img {
   width: 100%;
   height: auto;
 }
 
+/*Setting the interests height*/
 .interests {
   height: 70%;
 }
@@ -51,45 +61,49 @@ img {
   height: auto;
 }
 
+/*Setting the style for hyperlinks*/
 a {
   color: #6e6658;
   text-decoration: underline;
 }
 
+/*Setting hover style of hyperlinks*/
 a:hover {
   color: rgb(240, 174, 152, 100%);
 }
 
+/*Class for setting the size of apps in projects*/
 .apps {
   width: 10rem;
   height: auto;
   object-fit: contain;
 }
 
+/*Class for setting projects different than apps in projects*/
 .proj {
   width: auto;
   height: 10rem;
   object-fit: contain;
 }
 
+/*Class for adding margin to the images in the pink containers of the CV*/
 .details img {
   margin-bottom: 5px;
 }
 
+/*Class for downsizing the font size of to long texts*/
 .big {
   font-size: small;
 }
 
+/*Setting up the style of h3s*/
 h3 {
   font-size: 110%;
   font-weight: bold;
 }
 
+/*Setting up the style of h4s*/
 h4 {
   font-size: 100%;
   font-weight: bold;
-}
-
-img.details {
-  width: ;
 }
