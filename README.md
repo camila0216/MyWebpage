@@ -16,5 +16,6 @@ The project doesn't use any additional libraries, aside from Bootstrap.
 [Camila Gómez Schrader](https://camila0216.github.io/CGSWebPage/index.html)
 
 # License
+[MIT](https://github.com/camila0216/MyWebpage/blob/master/LICENSE)
 
 # Screenshots
