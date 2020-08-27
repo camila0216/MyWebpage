@@ -37,6 +37,7 @@
 
 img {
   width: 100%;
+  height: auto;
 }
 
 .interests {
@@ -45,9 +46,8 @@ img {
 
 /*Class used to display images in boxes with description in the personal information page.*/
 .card {
-  width: 18vw;
+  width: 18rem;
   text-align: justify;
-  width: 100%;
   height: auto;
 }
 
@@ -61,13 +61,15 @@ a:hover {
 }
 
 .apps {
-  height: 20vw;
-  width: 13vw;
+  width: 10rem;
+  height: auto;
+  object-fit: contain;
 }
 
 .proj {
-  height: 10vw;
-  width: 12vw;
+  width: auto;
+  height: 10rem;
+  object-fit: contain;
 }
 
 .details img {
@@ -81,4 +83,13 @@ a:hover {
 h3 {
   font-size: 110%;
   font-weight: bold;
+}
+
+h4 {
+  font-size: 100%;
+  font-weight: bold;
+}
+
+img.details {
+  width: ;
 }
