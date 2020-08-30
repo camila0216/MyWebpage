@@ -102,5 +102,8 @@ h3, h4 {
   font-weight: bold;
 }
 .mar{
-  margin-left: 40PX;
+  margin-left: 40px;
+}
+.video{
+  border:none;
 }
