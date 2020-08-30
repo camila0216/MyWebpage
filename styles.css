@@ -96,14 +96,14 @@ a:hover {
   font-size: small;
 }
 
-/*Setting up the style of h3s*/
-h3 {
+/*Setting up the style of h3s & h4s*/
+h3, h4 {
   font-size: 110%;
   font-weight: bold;
 }
-
-/*Setting up the style of h4s*/
-h4 {
-  font-size: 100%;
-  font-weight: bold;
+.mar{
+  margin-left: 40px;
+}
+.video{
+  border:none;
 }
